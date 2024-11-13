@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/syncfusion_localizations-27.1.50.iml" filepath="$PROJECT_DIR$/.idea/syncfusion_localizations-27.1.50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/syncfusion_localizations.iml" filepath="$PROJECT_DIR$/.idea/syncfusion_localizations.iml" />
     </modules>
   </component>
 </project>
